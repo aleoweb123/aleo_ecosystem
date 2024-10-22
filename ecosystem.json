@@ -1,0 +1,16 @@
+[
+    {
+        "type": ["explorer"],
+        "name": "Aleo123",
+        "category": "SoterHQ",
+        "website": "https://aleo123.io/",
+        "description": "Aleo123 is a block explorer and data analytics platform which provides a range of one-stop data service based on Aleo. It allows users to access and understand transaction data, stake Aleo, deploy programs etc.",
+        "icon": "./icons/aleo123.png",
+        "email": "hudaivie@gmail.com",
+        "github": "https://github.com/aleoweb123",
+        "discord": "https://discord.com/invite/MdP6JjDbjE",
+        "medium": "https://medium.com/@Aleo123_io",
+        "telegram": "",
+        "twitter":"https://x.com/aleo123_io"
+    }
+]
