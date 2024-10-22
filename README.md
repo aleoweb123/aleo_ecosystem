@@ -1,7 +1,7 @@
 # aleo_ecosystem
 
 ## Ecosystem APP Type
-你可以选择一个或多个APP类型
+You can select one or more APP types
 
 1. DeFi: Decentralized Finance (use: defi)
 2. Dex: Decentralized Exchange (use: dex)
