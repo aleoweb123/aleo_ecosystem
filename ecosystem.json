@@ -103,7 +103,7 @@
         "category": "",
         "website": "https://obscura.build",
         "description": "Obscura is a platform providing direct RPC endpoints, APIs, and SDKs to streamline app development on Aleo and reduce the setup time for ZK dApps.",
-        "icon": "./icons/obscura.svg",
+        "icon": "./icons/obscura.png",
         "email": "",
         "github": "",
         "discord": "https://discord.com/invite/obscura-network",
